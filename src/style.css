@@ -1,0 +1,22 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    color: white;
+    background-color: navy;
+    text-align: center;
+}
+.navbar a{
+    color:white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.info{
+    background: color #f1f1f1;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #ddd;
+} */
